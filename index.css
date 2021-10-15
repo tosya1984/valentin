@@ -125,6 +125,9 @@ div.slider-main {
     flex-wrap: wrap;
     justify-content: space-around;
 }
+.p-contacts {
+    text-align: center;
+}
 
 @media  (max-width: 1100px) {
     .slider-main {
@@ -150,8 +153,8 @@ div.slider-main {
     }
 }
 @media (max-width: 470px) {
-    .div-header-logo {
-        font-size: 23px;
+    h1 {
+        font-size: 30px;
     }
 
     nav {
